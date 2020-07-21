@@ -5,6 +5,12 @@ The project was specifically designed for our institute, thus it contains a tota
 
 There are also signup and signin pages. The final page at the checkout (for bill calculation) will not work unless you have a database file. The same name should be passed as a parameter in the code where SQL queries are written. By looking at the SQL queries (PHP files), you could create your own database provided you keep the name of the columns same as the code (alternatively change the name at both the places).
 
-Below is the snippet of the login/signup page:
+Below are the snippets of the home page:
+
+<img src = "https://github.com/shripriyamaheshwari/Cafeteria-Management/blob/master/Screenshots/HomePage1.png" width=600>
+
+<img src = "https://github.com/shripriyamaheshwari/Cafeteria-Management/blob/master/Screenshots/HomePage2.png" width=600>
+
+<img src= "https://github.com/shripriyamaheshwari/Cafeteria-Management/blob/master/Screenshots/HomePage3.png" width=600>
 
 The files can be used as a template to create your own database project
