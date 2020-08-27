@@ -3,7 +3,10 @@ A Database Management Project to manage orders and bills at food courts using My
 
 There are signup and signin pages. The final page at the checkout (for bill calculation) will not work unless you have a database file. The same name should be passed as a parameter in the code where SQL queries are written. By looking at the SQL queries (PHP files), you could create your own database provided you keep the name of the columns same as the code (alternatively change the name at both the places).
 
-Below is the snippet of the login/signup page:
+1. Below is the snippet of the login/signup page:
 ![homepage1](https://github.com/jagriti04/Cafeteria-Management/blob/master/Screenshots/HomePage1.png)
+
+2. Screenshot of home page having the option of choosing the place to order the food:
+![homepage2](https://github.com/jagriti04/Cafeteria-Management/blob/master/Screenshots/HomePage2.png)
 
 Note: The project was specifically designed for our institute, thus it contains a total of six web-pages, one for each canteen. It can be customised as per your convenience. The files can be used as a template to create your own database project
