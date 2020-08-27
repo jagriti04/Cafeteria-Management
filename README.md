@@ -9,4 +9,10 @@ There are signup and signin pages. The final page at the checkout (for bill calc
 2. Screenshot of home page having the option of choosing the place to order the food:
 ![homepage2](https://github.com/jagriti04/Cafeteria-Management/blob/master/Screenshots/HomePage2.png)
 
+3. The user is re-directed to the webpage of the canteen he/she selected. The webpage of each canteen contains the menu and the users can easily place the order by selecting the quantity of different food items they want.
+Screenshots of some webpages:
+![page1](https://github.com/jagriti04/Cafeteria-Management/blob/master/Screenshots/Nescafe.png)
+
+![page2](https://github.com/jagriti04/Cafeteria-Management/blob/master/Screenshots/HexagonCanteen)
+
 Note: The project was specifically designed for our institute, thus it contains a total of six web-pages, one for each canteen. It can be customised as per your convenience. The files can be used as a template to create your own database project
